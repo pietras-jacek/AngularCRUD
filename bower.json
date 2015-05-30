@@ -1,0 +1,15 @@
+{
+   "name": "angularCRUD",
+  "description": "Aplikacja AngularJS typu CRUD",
+  "version": "0.0.1",
+  "author": "Jacek Pietras <s10146@pjwstk.edu.pl>",
+  "homepage": "https://github.com/s10146/AngularCRUD.git",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "1.4.x",
+    "angular-mocks": "1.4.x",
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.3.4"
+  }
+}
